@@ -9,10 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prismicio/client": "^5.1.0",
+    "@stripe/stripe-js": "^1.21.1",
+    "@types/next-auth": "^3.15.0",
+    "@types/prismic-dom": "^2.1.1",
+    "axios": "^0.24.0",
+    "faunadb": "4.1.1",
     "next": "12.0.1",
+    "next-auth": "^3.29.0",
+    "prismic-dom": "^2.2.6",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "sass": "^1.43.4"
+    "react-icons": "^4.3.1",
+    "sass": "^1.43.4",
+    "stripe": "^8.186.0"
   },
   "devDependencies": {
     "@types/node": "^16.11.6",

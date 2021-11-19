@@ -36,3 +36,20 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # LINK TO TEMPLATE FIGMA:
 https://www.figma.com/file/Mo9702zhNAB256vFAnvzXn/ig.news-(Copy)?node-id=1%3A2
 
+# Account strip:
+phablovilasboas24@gmail.com 
+P2
+
+# Account fauna
+Login with gihub.
+
+# Start stripe test develop
+cd ~/stripe
+./stripe listen --forward-to localhost:3000/api/webhooks
+
+# Prismic
+https://phignews.prismic.io/
+Login with github.
+
+
+
